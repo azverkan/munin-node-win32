@@ -1,0 +1,5 @@
+bin/Debug
+bin/Release
+munin-node.ncb
+munin-node.suo
+munin-node.vcproj.*
